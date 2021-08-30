@@ -1,5 +1,5 @@
 # jsauce 
-A college summer training project. A resturant website bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+College summer training project. A restaurant website bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
