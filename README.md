@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# fnf 
+CIS 150 project. A flappy-bird clone built with [SFML](https://github.com/SFML/SFML) in C++.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features
 
-## Available Scripts
+1- Multiple levels  
+2- Saving high score  
+3- Pausing the game  
+4- Bugless  
+5- Suckless
 
-In the project directory, you can run:
+## Installation
+### Windows
+***Install Linux Mint or smth IDK I use arch btw..***
+### Linux
 
-### `npm start`
+ * Make sure you have git and build essentials installed.  
+    
+    Debian-based distributions:  
+    ```shell
+    sudo apt-get install build-essential git
+    ```
+    Arch-based distributions:   
+     ```shell
+     sudo pacman -S base-devel git
+	 ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ * Install SFML on your linux machine (it should be available in most repositories).  
+   
+   Debian-based distributions:
+   ```shell
+   sudo apt-get install libsfml-dev
+   ```
+   Arch-based distributions:
+   ```shell
+   sudo pacman -S sfml
+   ```
+ * Clone the repo and cd into it:
+   ```shell
+   git clone https://github.com/mazzensaadd/fnf.git && cd fnf
+   ```
+ * Compile and run:
+   ```shell
+   g++ src/main.cpp -o fnf -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio && ./fnf
+   ```  
+## Team Members
+1- [@Omar-Yasser](https://github.com/Omar-Yasser)  
+2- [@mazzensaadd](https://github.com/mazzensaadd)  
+3- [@mh084449](https://github.com/mh084449)  
+4- [@Elkhdiwy](https://github.com/Elkhdiwy)  
+5- Abdullah Bahr
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## fnf?
+fnf not flappy. A totally [original](https://www.gnu.org/gnu/gnu-history.html) idea.
