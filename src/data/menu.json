@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "images/menu-1.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 2,
+    "image": "images/menu-2.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 3,
+    "image": "images/menu-3.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 4,
+    "image": "images/menu-4.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 5,
+    "image": "images/menu-5.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 6,
+    "image": "images/menu-6.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 7,
+    "image": "images/menu-7.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 8,
+    "image": "images/menu-8.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  },
+  {
+    "id": 9,
+    "image": "images/menu-9.jpg",
+    "title": "delicious food",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, accusantium.",
+    "price": "12.9"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "images/dish-1.png",
+    "title": "tasty food",
+    "price": "15.9"
+  },
+  {
+    "id": 2,
+    "image": "images/dish-2.png",
+    "title": "tasty food",
+    "price": "15.9"
+  },
+  {
+    "id": 3,
+    "image": "images/dish-3.png",
+    "title": "tasty food",
+    "price": "15.9"
+  },
+  {
+    "id": 4,
+    "image": "images/dish-4.png",
+    "title": "tasty food",
+    "price": "15.9"
+  },
+  {
+    "id": 5,
+    "image": "images/dish-5.png",
+    "title": "tasty food",
+    "price": "15.9"
+  },
+  {
+    "id": 6,
+    "image": "images/dish-6.png",
+    "title": "tasty food",
+    "price": "15.9"
+  }
+]
