@@ -16,6 +16,9 @@ class Login extends Component {
       toggleLogin();
       this.props.history.push("/");
     }
+    else{
+      alert('Invalid Username or Password!')
+    }
   };
   handleChange = (e) => {
     this.setState({ ...this.state, [e.target.name]: e.target.value });
