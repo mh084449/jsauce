@@ -10,6 +10,7 @@ import Menu from "./components/Menu";
 import Review from "./components/Review";
 import Order from "./components/Order";
 import Login from "./components/Login";
+import Register from "./components/Registeration";
 
 class App extends Component {
   state = {
@@ -68,6 +69,7 @@ class App extends Component {
                 )}
               />
             )}
+            <Route path="/register" component={Register} />
             <Route path="/" component={Home} />
           </Switch>
           <Footer />

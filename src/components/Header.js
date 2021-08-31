@@ -40,6 +40,9 @@ const Header = ({ auth: { authenticated, toggleLogin } }) => {
               Logout
             </a>
           )}
+          <NavLink to="/register" activeClassName="active">
+            register
+          </NavLink>{" "}
         </nav>
 
         <div className="icons">
