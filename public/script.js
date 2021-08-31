@@ -1,5 +1,5 @@
 var swiper = new Swiper(".home-slider", {
-  spaceBetween: 0,
+  spaceBetween: 30,
   centeredSlides: true,
   autoplay: {
     delay: 7500,
@@ -13,7 +13,7 @@ var swiper = new Swiper(".home-slider", {
 });
 
 var swiper = new Swiper(".review-slider", {
-  spaceBetween: 0,
+  spaceBetween: 20,
   centeredSlides: true,
   autoplay: {
     delay: 7500,

@@ -14,11 +14,11 @@ const Footer = () => {
         <div className="box-container">
           <div className="box">
             <h3>locations</h3>
-            <a href="#n">india</a>
-            <a href="#n">japan</a>
-            <a href="#n">russia</a>
-            <a href="#n">USA</a>
-            <a href="#n">france</a>
+            <a href="#n">Cairo</a>
+            <a href="#n">Giza</a>
+            <a href="#n">Fayoum</a>
+            <a href="#n">Alexandria</a>
+            <a href="#n">Luxor</a>
           </div>
 
           <div className="box">
